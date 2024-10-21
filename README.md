@@ -9,8 +9,8 @@ Sumário da Wiki:
 
 1) Telas do protótipo e suas finalidades: https://github.com/Gudinez08/ProjetoModa/wiki/Telas-Prot%C3%B3tipo
 <br>
-<br>
+
 2) Telas do protótipo com seus widgets e sua relação com as classes e atributos: https://github.com/Gudinez08/ProjetoModa/wiki/Telas-com-seus-widgets-e-sua-rela%C3%A7%C3%A3o-com-as-classes-e-atributos
 <br>
-<br>
+
 3) Diagrama de classes:
