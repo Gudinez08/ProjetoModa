@@ -7,4 +7,6 @@ Descrição do APP: Nosso aplicativo retrata sobre a moda, falando sobre peças 
 
 Sumário da Wiki:
 
-Telas do protótipo e seus widgets: https://github.com/Gudinez08/ProjetoModa/wiki/Telas-Prot%C3%B3tipo
+Telas do protótipo e suas finalidades: https://github.com/Gudinez08/ProjetoModa/wiki/Telas-Prot%C3%B3tipo
+Telas do protótipo com seus widgets e sua relação com as classes e atributos:
+Diagrama de classes:
