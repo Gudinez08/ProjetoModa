@@ -17,4 +17,4 @@ Sumário da Wiki:
 3) Telas do protótipo e sua relação com as classes e atributos: https://github.com/Gudinez08/ProjetoModa/wiki/Telas-e-suas-rela%C3%A7%C3%B5es-com-as-classes-e-atributos
 <br>
 
-4) Diagrama de classes:
+4) Diagrama de classes: https://github.com/Gudinez08/ProjetoModa/wiki/Diagrama-de-classes
